@@ -57,5 +57,6 @@ public class Employee {
 		this.desiganation=desiganation;
 		this.department=department;
 		this.salary=salary;
+	
 	}
 }
