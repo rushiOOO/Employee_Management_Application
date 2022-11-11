@@ -115,10 +115,4 @@ public class EmployeeService {
 				System.out.println("Employee deleted successfully!!");
 			}
 		}
-		//view all employees
-		public void viewAllEmps() {
-			for(Employee emp:empset) {
-				System.out.println(emp);
-			}
-		}
-}
+		
